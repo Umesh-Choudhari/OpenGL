@@ -1,4 +1,4 @@
-# Visualizer Project (OpenGL Shader Implimentation)
+# OpenGL Shader Implimentation
  
 ## Overview
 
