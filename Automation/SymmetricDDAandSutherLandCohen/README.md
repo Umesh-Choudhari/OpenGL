@@ -1,4 +1,4 @@
-# Visualizer Project (OpenGL Automation)
+# OpenGL Automation
  
 ## Overview
 
