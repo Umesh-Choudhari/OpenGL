@@ -57,7 +57,7 @@ Includes various geometry classes as follows
  
 2. Defined two connector `setSharingFactor`  in `Visualizer.cpp`, passes `rotation, translation and scaling factor` to `OpenGLWindow.cpp`.
  
-3. Defined `setSharingFactor` function that takes scale factor value and update scale `mScaleFactor`.
+3. Defined `setSharingFactor` function .
  
 4. Created  `QMatrix4x4 scaleMatrix;` to scale drawing. 
 
