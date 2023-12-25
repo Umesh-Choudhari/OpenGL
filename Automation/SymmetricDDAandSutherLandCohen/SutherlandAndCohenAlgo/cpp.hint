@@ -1,0 +1,2 @@
+#define SUTHERLANDANDCOHENALGO_API __declspec(dllexport)
+#define SUTHERLANDANDCOHENALGO_API __declspec(dllimport)
